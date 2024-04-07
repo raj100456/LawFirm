@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/LawFirm/static/css/main.902e3dfe.css",
+    "main.js": "/LawFirm/static/js/main.dc965ffe.js",
+    "static/media/HeroImage.svg": "/LawFirm/static/media/HeroImage.fea8cbb7fd3eb4edce821eae6db9e929.svg",
+    "static/media/landlord disputes.svg": "/LawFirm/static/media/landlord disputes.aa3124b7f578abdcc13120dd890a5d98.svg",
+    "static/media/business law 2.svg": "/LawFirm/static/media/business law 2.6ee8f2b9dcb09556e73aa9412d92eea1.svg",
+    "static/media/Business law.svg": "/LawFirm/static/media/Business law.8578f4b4c6e8ba250b27d38bd5d27645.svg",
+    "static/media/danial.svg": "/LawFirm/static/media/danial.58a199dd412d4b37b0b2096849064d62.svg",
+    "static/media/sanfole.svg": "/LawFirm/static/media/sanfole.cbb8098a5471b4041b9ffaeca406b02f.svg",
+    "static/media/real estate law.svg": "/LawFirm/static/media/real estate law.35270f15863fd701760d7f67ec9a73a4.svg",
+    "static/media/elder abuse.svg": "/LawFirm/static/media/elder abuse.9ebceef1da1e46ae0e6048155b9a4594.svg",
+    "static/media/colleen.svg": "/LawFirm/static/media/colleen.31b442844d3b492ec0027c0a5eed1640.svg",
+    "static/media/Devon lane.svg": "/LawFirm/static/media/Devon lane.547e77b47197d7ab7559af72e4fbf6cb.svg",
+    "static/media/partnership law.svg": "/LawFirm/static/media/partnership law.13aebf7c8355e4a85b8f190f123eba5a.svg",
+    "static/media/nik.svg": "/LawFirm/static/media/nik.07c17daaadb17523d21ac6e665a24000.svg",
+    "static/media/cesforila.svg": "/LawFirm/static/media/cesforila.ac374a953aabd751aef92fb6c09148d4.svg",
+    "static/media/haldone.svg": "/LawFirm/static/media/haldone.54f184adbded9f1ca8f790ff08c05960.svg",
+    "static/media/robert fox.svg": "/LawFirm/static/media/robert fox.181b8e16c472c89ac4f3f1972e655e50.svg",
+    "static/media/jane cooper.svg": "/LawFirm/static/media/jane cooper.b8590e84d1532e8fd80b4073be172cba.svg",
+    "static/media/logo.svg": "/LawFirm/static/media/logo.b250e9584ff6dbfc42b56003c632f58c.svg",
+    "static/media/Insta Icon.svg": "/LawFirm/static/media/Insta Icon.9053bfe93889afbf1df02f904e5bcf98.svg",
+    "static/media/right.svg": "/LawFirm/static/media/right.653a675843eab3b430096253dc5c96bc.svg",
+    "static/media/Left.svg": "/LawFirm/static/media/Left.1dac854154bd32eb309b1be9400af0c1.svg",
+    "static/media/giftbox.svg": "/LawFirm/static/media/giftbox.12b00af1b59928943a263d7fd704b1e8.svg",
+    "static/media/Pinterest Icon.svg": "/LawFirm/static/media/Pinterest Icon.f3d0719da128f5cc9efd97d8329ca441.svg",
+    "static/media/Twitter Icon.svg": "/LawFirm/static/media/Twitter Icon.3ef611b085c60ce7b032a1abc9d8fd83.svg",
+    "index.html": "/LawFirm/index.html",
+    "static/media/Facebook icon.svg": "/LawFirm/static/media/Facebook icon.5f98878638a823ae2d287af51dc4e447.svg",
+    "static/media/add.svg": "/LawFirm/static/media/add.8302ac693623023e5bdd579000cfdd43.svg",
+    "main.902e3dfe.css.map": "/LawFirm/static/css/main.902e3dfe.css.map",
+    "main.dc965ffe.js.map": "/LawFirm/static/js/main.dc965ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902e3dfe.css",
+    "static/js/main.dc965ffe.js"
+  ]
+}
